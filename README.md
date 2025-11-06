@@ -1,4 +1,4 @@
-Hi, I’m Sumit M. Jogdankar —
+Hi, I’m Sumit M Jogdankar 
 A passionate Master’s student in Business Information Technology at RMIT University, Melbourne with 3 years of professional experience as a Senior Systems Engineer at Infosys, where I worked on large-scale projects for Apple Inc.
 
 💻 What I Do
