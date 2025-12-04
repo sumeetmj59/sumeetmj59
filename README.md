@@ -1,23 +1,35 @@
-Hi, I’m Sumit M Jogdankar 
-A passionate Master’s student in Business Information Technology at RMIT University, Melbourne with 3 years of professional experience as a Senior Systems Engineer at Infosys, where I worked on large-scale projects for Apple Inc.
+Hi, I’m Sumeet M Jogdankar, An AI and Business Technology professional based in Melbourne. I recently completed my Master of Business Information Technology at RMIT University, and I have 3 years of industry experience as a Senior Systems Engineer at Infosys, where I worked on large-scale projects for Apple.
 
-💻 What I Do
-	•	Build and manage end-to-end software solutions (ReactJS, Python, JavaScript, SQL, Java).
-	•	Explore AI & Machine Learning projects including resume scanners, recommender systems, and deepfake detection.
-	•	Apply IT governance, risk & compliance practices aligned with frameworks like COBIT2019.
-	•	Blend business & tech skills to deliver practical solutions.
+I enjoy building practical AI systems, experimenting with LLMs, and creating solutions that combine software engineering with business needs. My work includes private LLMs, AI-driven automation tools, resume evaluation systems, recommenders, and conversational agents.
 
-🚀 Highlighted Projects
-	•	🔗 Blockchain-based Digital Certificates (RMIT) – Project Manager leading 6-member team.
-	•	🤖 BumpBuddy AI Chatbot – Pregnancy-safe AI assistant built with RelevanceAI & Make.com.
-	•	📊 HR Resume Scanner – ML tool to rate resumes (High/Medium/Low match).
-	•	📰 Microsoft News Recommender System – Predictive model for personalized news feeds.
-	•	🛡 Deepfake Detector – AI system to identify manipulated media.
-	•	🏎 IT Asset Management & Risk Dashboard (BMW-Aligned) – Prototype for software compliance & IT risk tracking.
+What I Work On
+	•	Building AI and Machine Learning applications
+	•	Developing end-to-end solutions using Python, JavaScript, React, and APIs
+	•	Creating automation workflows using Relevance AI, Make.com, and Zapier
+	•	Applying IT governance and digital strategy concepts
+	•	Exploring areas like deepfake detection, recommender systems, and NLP
 
-⚡ Skills & Tools
-ReactJS | Python | JavaScript | SQL | Java | Azure | AWS | Jira | RelevanceAI | Make.com | Zapier | GitHub | Agile (Scrum)
+Selected AI Projects
+	•	Private LLM (SochGPT): Custom LLM with embeddings, FastAPI backend, and React frontend
+	•	AI Resume Screener: ML-powered resume–job match scoring
+	•	Customer Network Onboarding AI: AI risk insights for network configuration onboarding
+	•	Blockchain Digital Certificates (RMIT): Project manager for a blockchain-based student credential system
+	•	AI News Recommender: Built on a 5.8M-row dataset with AUC 0.903
+	•	BumpBuddy Chatbot: NLP-driven pregnancy support assistant
+	•	HustleMate: AI engine that converts ideas into structured startup plans
 
-🌱 Currently learning: Advanced AI/ML applications, Digital Strategy, and Enterprise IT Operations.
+AI & Technical Skills
 
-📫 Reach me at: sumitmj59@gmail.com | 📱 0432409436
+LLMs • NLP • Generative AI • LangChain • Machine Learning • Data Science
+Python • JavaScript • React • Streamlit • SQL • APIs
+Relevance AI • Make.com • Zapier
+Azure • AWS • GitHub • Agile (Scrum)
+
+Currently Learning
+
+Advanced AI/ML applications, enterprise IT operations, agent-based AI systems, and digital strategy.
+
+Contact
+
+Email: sumeetmj59@gmail.com
+Phone: 0432 409 436
